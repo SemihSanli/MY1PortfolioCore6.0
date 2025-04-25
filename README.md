@@ -60,3 +60,27 @@
 ![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/6fe4d7f23bdbd1578e0dad55d10767d659f8f35b/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164659.png)
 ![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/6fe4d7f23bdbd1578e0dad55d10767d659f8f35b/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164705.png)
 ![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/e67ab9a8559b1d6660a221fd5a7d4e2294a16115/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20171559.png)
+
+## 📍Yeteneklerim
+### Kullanıcı burada,  Yeteneklerim ile  ilgili bilgileri görüntüler. Dilerse CRUD İşlemleri yapabilir. Güncelle kısmında veriler ID'ye göre otomatik gelecektir
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/265e962db3452bfc305d932d25103d8463a74244/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164903.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/265e962db3452bfc305d932d25103d8463a74244/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164907.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/265e962db3452bfc305d932d25103d8463a74244/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164911.png)
+
+## 📍Gelen Kutusu
+### Kullanıcı burada,  Tarafına gönderilen mesajları görüntüleyebilir. Gönderilen mesajlar otomatik olarak "Okunmadı" şeklinde görüntülenir. Kullanıcı dilerse bunun durumunu değiştirerek  "Okundu" Yapabilir, mesajı silebilir ve Mesajı Görüntüleyebilir. Mesaj detayında ise Substring kullanılarak belli kelime aralığı alınmıştır.
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/265e962db3452bfc305d932d25103d8463a74244/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164916.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/265e962db3452bfc305d932d25103d8463a74244/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164919.png)
+
+## 📍İstatistikler
+### Kullanıcı burada,  İstatistikleri görüntüleyebilir. Bunlar; "Toplam Yetenek Sayısı","Toplam Yetenek Puanı","Değeri 70'den büyük olan yetenek sayısı","Yeteneklerin ortalama değeri","Toplam deneyim sayısı","Bilgi İşlem stajyeri pozisyonunda çalışılan deneyim sayısı","Okunan Mesaj Sayısı","Okunmayan mesaj sayısı","Toplam verilen hizmet sayısı","Yazılım mühendisi olan referans sayısı" 'nı görüntüleyebilir
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/265e962db3452bfc305d932d25103d8463a74244/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164924.png)
+
+
+## 📍Sosyal Medya Bağlantıları
+### Kullanıcı burada,  Sosyal medya bağlantılarını görüntüleyip istediği CRUD işlemlerini gerçekleştirebilir
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/265e962db3452bfc305d932d25103d8463a74244/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164931.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/265e962db3452bfc305d932d25103d8463a74244/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164933.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/265e962db3452bfc305d932d25103d8463a74244/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164939.png)
+
+
