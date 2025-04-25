@@ -97,7 +97,7 @@
 
 ## 📍İstatistik Kısmı
 ### Tüm istatistikler Viewbag yardımı ile LINQ Sorguları kullanarak "Toplam Referans Sayısı","Portfolyo Sayısı","Yetenek Sayısı" Ve  her sayfa yenilendiğinde "Rastgele 10-20 arasında sayı oluşturan" sorgular yazdım
-![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163923.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/37146fc08eaa4ec7adf10d6c792cf904ce305e8c/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163929.png)
 
 
 ## 📍Yeteneklerim
