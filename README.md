@@ -129,6 +129,10 @@
 ![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/c30ac9902d605d61405aff596193024e1187978f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164026.png)
 ![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/c30ac9902d605d61405aff596193024e1187978f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164053.png)
 
+## 📍Harita / Footer
+### Google Maps üzerinden projeme harita yapısı aldım. Ve Lokasyon kısmını veri tabanı üzerinden çekerek dinamik bir yapı elde etmeye çalıştım
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/03f1e489a8c84aa05db98afc0404e937d56c094e/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164031.png)
+
 
 ## 📍Hata Sayfası
 ### Olası bir yanlış URL girdisi sonucunda kullanıcının karşılaşacağı "404 Sayfa Bulunamadı" hata sayfasını da projeme ekledim
