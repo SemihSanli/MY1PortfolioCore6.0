@@ -119,8 +119,19 @@
 ## 📍Hizmetlerim
 ### Tüm Hizmetlerim bilgisi veri tabanı üzerinden çekilerek dinamik bir yapı elde edilmiştir. Fakat toplam 8 adet veri girilip, sadece 6 adet veri UI tarafında listelenmiştir
 ![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164013.png)
-![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163948.png)
-![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163953.png)
-![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164005.png)
+
+## 📍Referanslarım & Yorumlarım
+### Tüm Referanslarım bilgisi veri tabanı üzerinden çekilerek dinamik bir yapı elde edilmiştir. 
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164019.png)
+
+## 📍İletişim Bilgilerim / Mesaj Gönderme İşlemi
+### İletişim bilgilerim 2 parçaya ayrılmıştır. Bir(Sol Taraf) Contact kısmı olarak belirlenip UI Üzerindeki veriler veri tabanı üzerinden çekilmiştir. 2(Mesaj Gönderme işlemi için ayrılan bölüm) iç içe partial ile farklı bir alanda tutulmuştur. Böylelikle message sınıfı oluşturarak mesaj gönderim işlemi gerçekleştirilmiştir.Mesaj gönderimi sonrasında sayfa yenilenir ve bir SweetAlert yapısı kullanıcıyı karşılayıp mesajın iletildiğini bildirir.
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/c30ac9902d605d61405aff596193024e1187978f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164026.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/c30ac9902d605d61405aff596193024e1187978f/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164053.png)
+
+
+## 📍Hata Sayfası
+### Olası bir yanlış URL girdisi sonucunda kullanıcının karşılaşacağı "404 Sayfa Bulunamadı" hata sayfasını da projeme ekledim
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/57cf4c075c5b256a234161ec95375ec594a6a442/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20175149.png)
 
 
