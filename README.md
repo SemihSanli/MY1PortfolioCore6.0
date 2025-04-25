@@ -84,3 +84,43 @@
 ![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/265e962db3452bfc305d932d25103d8463a74244/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164939.png)
 
 
+# 💊 UI Paneli 
+
+## 📍Öne Çıkanlar Kısmı
+### Tüm öne çıkanlar kısmı dinamik olarak veri tabanı üzerinden çekilmiştir. Social Media için iç içe partial kullanılarak dinamik hale getirilmiş ve feature alanında gösterilmiştir
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163917.png)
+
+
+## 📍Hakkımda Kısmı
+### Tüm hakkımda kısmı dinamik olarak veri tabanı üzerinden çekilmiştir.
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163923.png)
+
+## 📍İstatistik Kısmı
+### Tüm istatistikler Viewbag yardımı ile LINQ Sorguları kullanarak "Toplam Referans Sayısı","Portfolyo Sayısı","Yetenek Sayısı" Ve  her sayfa yenilendiğinde "Rastgele 10-20 arasında sayı oluşturan" sorgular yazdım
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163923.png)
+
+
+## 📍Yeteneklerim
+### Tüm Yeteneklerim kısmı veri tabanı üzerinden çekilerek dinamik bir hal almıştır
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163932.png)
+
+
+## 📍Eğiitm Hayatım / Deneyimlerim
+### Tüm Eğitim hayatım ve deneyimlerim kısmı veri tabanı üzerinden çekilerek dinamik bir hal almıştır
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163936.png)
+
+## 📍Projelerim
+### Tüm Projelerim Kategori tablosu ile ilişkili bir yapı kurularak her kategori altında o kategoriye ait projelerin listelenmesi sağlanarak dinamik bir yapı elde edilmiştir.
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163943.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163948.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163953.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164005.png)
+
+## 📍Hizmetlerim
+### Tüm Hizmetlerim bilgisi veri tabanı üzerinden çekilerek dinamik bir yapı elde edilmiştir. Fakat toplam 8 adet veri girilip, sadece 6 adet veri UI tarafında listelenmiştir
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164013.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163948.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20163953.png)
+![ImageAlt](https://github.com/SemihSanli/MY1PortfolioCore6.0/blob/b521599dc11aed8d14270554f4ad38f8fe758b99/Images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-04-25%20164005.png)
+
+
